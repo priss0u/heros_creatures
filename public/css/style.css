@@ -1,0 +1,12 @@
+footer{
+background-color: red;
+padding: 30px;
+}
+
+body{
+    background-image: url(../img/sorciere.jpg);
+}
+
+h1{
+    text-align: center;
+}
